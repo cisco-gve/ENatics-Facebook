@@ -14,7 +14,7 @@ Table of Contents
       * [Installation Guide](#installation-guide)
     * [Demo](#demo)
 
-Created by [https://github.com/joncampo]
+Created by joncampo@cisco.com [https://github.com/joncampo]
 
 ## Features
 ![alt tag](images/what_is.png)
